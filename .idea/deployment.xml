@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wzh@172.30.112.36:2222 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="school_gpu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/.file_trans" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wzh@172.30.112.36:2222 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/.file_trans/2.6.1.1" local="$PROJECT_DIR$" web="http://172.30.112.36" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

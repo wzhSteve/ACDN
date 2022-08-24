@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9434362-17ae-4ce3-b9ac-7c6bf83022d2" name="school_gpu" url="http://172.30.112.36">
+        <fileTransfer rootFolder="/home/wzh/" accessType="SFTP" host="172.30.112.36" port="2222" sshConfigId="c58e753d-d3a5-4cad-80a2-a88a3cffaa7b" sshConfig="wzh@172.30.112.36:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
